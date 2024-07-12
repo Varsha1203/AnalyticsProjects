@@ -1,5 +1,5 @@
-SQL with PowerBI:
-Here the poject is based on the following:
+## SQL with PowerBI:
+### Here the poject is based on the following:
 How to get SQL data into Power BI?
 Creating a simple Power BI report
 How to parameterize the query?
